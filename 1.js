@@ -23,3 +23,6 @@ const func6=()=>{
 }
 //an error 
 //second error
+const home=()=>{
+    alert('this function i do from my home')
+}
