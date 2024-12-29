@@ -15,6 +15,7 @@ const func=(num)=>{
 
 
     const func5=()=>{
+        
         return 4
     }
 const func6=()=>{
