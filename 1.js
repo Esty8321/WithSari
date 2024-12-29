@@ -28,3 +28,7 @@ const home=()=>{
 }
 //this i write before i try do the pull request
 console.log('ccc')
+
+const d=()=>{
+    console.log('try make conflict');
+}
