@@ -7,4 +7,4 @@ const func=(num)=>{
     const func2=()=>{
         console.log("jh");
         console.log("kkk");
-    
+    }
