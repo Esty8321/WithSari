@@ -4,7 +4,11 @@ const func=(num)=>{
     return num*num
 }
 
-    const func3=()=>{
+
+    const func3=()=>{}
+
+    const func4=()=>{
+
         console.log("jh");
         console.log("kkk");
     }
