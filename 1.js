@@ -17,3 +17,6 @@ const func=(num)=>{
     const func5=()=>{
         console.log('func5')
     }
+const func6=()=>{
+    console.log('first commit in test2-branch');
+}
