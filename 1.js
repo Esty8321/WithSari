@@ -27,3 +27,7 @@ const home=()=>{
     alert('this function i do from my home')
 }
 //this i write before i try do the pull request
+const d=()=>{
+    return 8;
+}
+console.log('try make conflict');
