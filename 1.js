@@ -12,3 +12,8 @@ const func=(num)=>{
         console.log("jh");
         console.log("kkk");
     }
+
+
+    const func5=()=>{
+        console.log('func5')
+    }
