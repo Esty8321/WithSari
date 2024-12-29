@@ -21,3 +21,5 @@ const func=(num)=>{
 const func6=()=>{
     console.log('first commit in test2-branch');
 }
+//an error 
+//second error

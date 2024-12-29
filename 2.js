@@ -1,5 +1,6 @@
 function func()
 {
+
     return 188
 }
 
