@@ -3,7 +3,7 @@ const func=(num)=>{
     console.log("hello world");
     return num*num
 }
-
+//Sari
 
     const func3=()=>{}
 
